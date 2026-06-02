@@ -1,4 +1,4 @@
-# Data Analytics Project
+# Customer Purchase Behaviour Analysis Project
 
 ## Overview
 

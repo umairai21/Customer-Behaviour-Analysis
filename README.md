@@ -130,17 +130,13 @@ git clone <repository-link>
 pip install pandas matplotlib seaborn psycopg2
 ```
 
-### 3. Run the Jupyter Notebook
-
-```bash
-jupyter notebook
-```
+### 3. Run the Code
 
 ### 4. Connect PostgreSQL
 
 - Create a PostgreSQL database
 - Import the cleaned dataset
-- Run the SQL queries from the `/sql` folder
+- Run the sql queries
 
 ### 5. Open Power BI Dashboard
 
@@ -157,6 +153,3 @@ jupyter notebook
 
 ---
 
-## Author
-
-Developed as part of a Data Analytics project to demonstrate skills in data cleaning, SQL analysis, visualization, and business intelligence.
